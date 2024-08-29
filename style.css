@@ -1,0 +1,40 @@
+.card{
+	background-color:skyblue;
+	height:450px;
+	width:666px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    box-shadow: 0 0 15px gray;
+    border-radius: 5px;
+}
+
+.say{
+	background-color:white;
+	height:640px;
+	width:1200px;
+    /*left: -50%;*/
+    transform: translate(4%, 90%);
+    box-shadow: 0 0 15px yellow;
+    position: absolute;
+}
+
+.page{
+	background-color:white;
+	height:1300px;
+	width:1300px;
+    left: -50%;
+    transform: translate(8%, 0%);
+    box-shadow: 0 0 15px gray;
+}
+
+.bg{
+	background-color:rgba(200,200,200,0.6);
+}
+
+.people{
+	width:1200px;
+	height:120px;
+	position: absolute;
+}
